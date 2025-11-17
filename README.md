@@ -1,3 +1,6 @@
+### Note From the Author
+This is my first ML model, built and deployed from scratch! This project was built with intention, to show that learning, consistency, and curiosity can turn complex ideas into something practical. I am leaving this note here because I want to comeback in the nearest future to see and remember where I started from and where I will be then. If you’re reading this, keep building, keep experimenting, and never underestimate what you can create from where you are. Thanks for stopping by !
+
 ## Problem Statement
 The goal of this project is to build a machine learning model that classifies fruits based on their physical and sensory attributes. Using data on weight, size, color, shape, average price, and taste, the system predicts the correct fruit category. The model is then served as an API for real-time classification requests.
 
